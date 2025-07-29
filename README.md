@@ -6,4 +6,4 @@
 * **Google Developer Groups:** [Gen Ai Study Jams ] (https://github.com/shravyasri01/certifications/blob/main/GEN%20AI%20STUDY%20JAMS%20by%20GDG.pdf)
 * **Hackathon certificate:** [Hackathon certificate]()
 * **codechef profile:** [Code Chef](https://github.com/shravyasri01/certifications/blob/main/CodeChef)
-* * **Google Developer Groups:** [Front End Web Development](https://github.com/shravyasri01/certifications/blob/main/Google%20Developer%20Groups%20frontend%20web%20development.pdf)
+* **Google Developer Groups:** [Front End Web Development](https://github.com/shravyasri01/certifications/blob/main/Google%20Developer%20Groups%20frontend%20web%20development.pdf)
